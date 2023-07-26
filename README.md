@@ -1,2 +1,2 @@
 # Web-D-Bootcamp---Colt-Steele
-This repository contains all projects developed during my course of The Web Development Bootcamp 2023 by Colt Steele. The projects developed uses all types of modern software, tools, libraries etc. used in Full Stack Web Development.
+This repository contains all projects developed during my course of The Web Development Bootcamp 2023 by Colt Steele. The projects developed duuring this course uses all types of modern software, tools, libraries etc., used in Full Stack Web Development.
